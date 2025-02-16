@@ -1,0 +1,6 @@
+conda create --name myenv python=3.10
+*note:after installing conda and creating the venv in the visual studio code on the right bottom select the venv as the conda with py3.10 
+conda install -c conda-forge dlib
+pip install face_recognition
+pip install pandas
+pip install opencv-python
